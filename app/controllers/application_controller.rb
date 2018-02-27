@@ -11,6 +11,6 @@ class ApplicationController < ActionController::Base
     end
 
     def testm
-    	log.info("testm")
+    	# log.info("testm")
     end
 end
